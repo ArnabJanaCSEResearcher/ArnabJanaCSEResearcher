@@ -14,7 +14,6 @@
 - 💬 **Ask me about:** Technology Trends, Learning Resources, or Getting Started in Tech
 ===========================================================================================================================================================================================================================================================================
 
-
 ## 💡 I’m a dedicated learner with a passion for coding and continuous growth. Always eager to explore, build, and contribute. 😊
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=ArnabJanaCSEResearcher&label=Profile%20views&color=green&style=for-the-badge" alt="profile views" />
