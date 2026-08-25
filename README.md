@@ -12,6 +12,7 @@
 - 👯 **I’m looking to collaborate on:** Hackathons, Team Projects, and Open-source contributions
 - 🤔 **I’m looking for help with:** Real-world project ideas, innovations and guidance
 - 💬 **Ask me about:** Technology Trends, Learning Resources, or Getting Started in Tech
+- 
 ===========================================================================================================================================================================================================================================================================
 
 ## 💡 I’m a dedicated learner with a passion for coding and continuous growth. Always eager to explore, build, and contribute. 😊
